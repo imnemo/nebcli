@@ -1,0 +1,28 @@
+{
+  "name": "nebcli",
+  "version": "0.0.0",
+  "description": "NebulasIO cli wallet and cli tools...",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imnemo/nebcli.git"
+  },
+  "keywords": [
+    "Nebulas",
+    "NAS",
+    "wallet",
+    "blockchain",
+    "cli",
+    "tool",
+    "node_module"
+  ],
+  "author": "imnemo <oncoding1988@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/imnemo/nebcli/issues"
+  },
+  "homepage": "https://github.com/imnemo/nebcli#readme"
+}
