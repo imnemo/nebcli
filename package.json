@@ -1,5 +1,5 @@
 {
-  "name": "nebcli",
+  "name": "nascli",
   "version": "0.0.0",
   "description": "NebulasIO cli wallet and cli tools...",
   "main": "index.js",
