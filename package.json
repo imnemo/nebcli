@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/imnemo/nebcli/issues"
   },
-  "homepage": "https://github.com/imnemo/nebcli#readme"
+  "homepage": "https://github.com/imnemo/nebcli#readme",
+  "dependencies": {
+    "nebcli": "0.0.0"
+  }
 }
